@@ -1,0 +1,847 @@
+[
+  {
+    "name": "Silver Bell",
+    "reveals": [
+      {
+        "chapter": 8,
+        "description": "a small memento of a long-lost home, which once brought its owner comfort and joy. Its clear ringing can be heard from miles away."
+      }
+    ]
+  },
+  {
+    "name": "Puppeteer's Shroud",
+    "reveals": [
+      {
+        "chapter": 15,
+        "rank": "Awakened",
+        "type": "Armor",
+        "description": "A worm of doubt once found its way into a righteous king's heart. With time, the king was devoured from inside and became its puppet. A lifetime later, the Puppeteer Worm escaped from the king's dead body, leaving behind a cacoon of black silk. No one knows where it went; however, once people dared to approach the silent castle, they found the silk among the mountains of gnawed bones and fashioned it into an armor."
+      },
+      {
+        "chapter": 83,
+        "rank": "Awakened",
+        "tier": "V",
+        "type": "Armor",
+        "description": "A worm of doubt once found its way into a righteous king's heart. With time, the king was devoured from inside and became its puppet. A lifetime later, the Puppeteer Worm escaped from the king's dead body, leaving behind a cacoon of black silk. No one knows where it went; however, once people dared to approach the silent castle, they found the silk among the mountains of gnawed bones and fashioned it into an armor.",
+        "enchantments": [
+          {
+            "name": "Enhanced Durability",
+            "description": ""
+          },
+          {
+            "name": "Doubtless",
+            "description": "Provides the wearer with a small amount of protection against mind attacks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Azure Blade",
+    "reveals": [
+      {
+        "chapter": 33,
+        "rank": "Awakened",
+        "type": "Weapon",
+        "description": "On this forgotten shore, only steel remembers."
+      }
+    ]
+  },
+  {
+    "name": "Starlight Legion Armor",
+    "reveals": [
+      {
+        "chapter": 52,
+        "rank": "Awakened",
+        "type": "Armor",
+        "description": "Born in the all-consuming darkness, seven valiant heroes made an oath to return light to the cursed land. Time has erased their names and their faces, but the memory of the defiant oath still remains."
+      }
+    ]
+  },
+  {
+    "name": "Midnight Shard",
+    "reveals": [
+      {
+        "chapter": 74,
+        "rank": "Awakened",
+        "type": "Weapon",
+        "description": "Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender."
+      },
+      {
+        "chapter": 83,
+        "rank": "Awakened",
+        "tier": "III",
+        "type": "Weapon",
+        "description": "Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender.",
+        "enchantments": [
+          {
+            "name": "Unbroken",
+            "description": "This blade refuses to be broken, and thus is durable beyond reason. It will greatly enhance the power of its wielder when they are close to death, however only if the wielder is unwilling to surrender."
+          }
+        ]
+      },
+      {
+        "chapter": 180,
+        "rank": "Awakened",
+        "tier": "III",
+        "type": "Weapon",
+        "description": "Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender.",
+        "enchantments": [
+          {
+            "name": "Unbroken",
+            "description": "This blade refuses to be broken, and thus is durable beyond reason. It will greatly enhance the power of its wielder when they are close to death, however only if the wielder is still unwilling to surrender."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drop of Ichor",
+    "reveals": [
+      {
+        "chapter": 81,
+        "rank": "unknown",
+        "type": "unknown",
+        "description": "The loathsome Thieving Bird was hated both by the gods and -unknown-. However, it only cared about shiny things. Enamored by Weaver's beautiful eyes, it stole one of them on a dark, starless night. Impatient, the vile creature looked at its bounty while still in flight. However, when it saw the reflection of -unknown- forever frozen in the depths of Weaver's pupil, it went mad and screamed, dropping the eye on the mortal realm below. All that was left in its greedy beak was one drop of pure, golden ichor."
+      },
+      {
+        "chapter": 551,
+        "rank": "unknown",
+        "tier": "unknown",
+        "type": "unknown",
+        "description": "Before, there was only boundless, eternal void. From that dark abyss, the -unknown- were born. Just like chaos itself, they were endless and everlasting, vast and forever changing. But then came desire, and with it came direction. From it, the gods were born. When gods appeared, the void was not eternal anymore. When gods appeared, the darkness was not endless anymore. When gods appeared, the chaos was not orderless anymore. The gods appeared, and brought with them war. This drop of divine blood was spilled by Shadow on one of the battlefields of that war, before the void was bound."
+      }
+    ]
+  },
+  {
+    "name": "Prowling Thorn",
+    "reveals": [
+      {
+        "chapter": 104,
+        "rank": "Awakened",
+        "tier": "II",
+        "type": "Weapon",
+        "description": "This flying dagger is as unpredictable and fickle as the affection of a young beauty, but, perhaps, not as deadly.",
+        "enchantments": [
+          {
+            "name": "Rose of Betrayal",
+            "description": "The Prowling Thorn is connected to its wielder by an invisible string. This string is strong but mercurial — just like the treacherous bond of sentimental attachment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ordinary Rock",
+    "reveals": [
+      {
+        "chapter": 104,
+        "rank": "Awakened",
+        "tier": "I",
+        "type": "Tool",
+        "description": "Just an ordinary rock.",
+        "enchantments": [
+          {
+            "name": "Not Really",
+            "description": "The word is mightier than the sword. The rock is mightier than the word."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Endless Spring",
+    "reveals": [
+      {
+        "chapter": 104,
+        "rank": "Dormant",
+        "tier": "IV",
+        "type": "Tool",
+        "description": "A lovesick devil had once imprisoned a mighty river in this fragile glass bottle. It was his gift it to a beautiful desert spirit.",
+        "enchantments": [
+          {
+            "name": "Gift of Water",
+            "description": "This bottle contains enough water to make flowers bloom in the desolate heart of the most lifeless of deserts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "M… Un…old",
+    "reveals": [
+      {
+        "chapter": 182,
+        "rank": "?",
+        "tier": "?",
+        "type": "unknown",
+        "description": "...Pr… …first …army …shed …own…"
+      }
+    ]
+  },
+  {
+    "name": "Blood Arrow",
+    "reveals": [
+      {
+        "chapter": 204,
+        "rank": "Ascended",
+        "tier": "I",
+        "type": "Weapon",
+        "description": "A debt of blood must be paid in blood.",
+        "enchantments": [
+          {
+            "name": "Rain of Blood",
+            "description": "The arrows are created from the wielder's blood, and as such, can rain on the enemies for as long as the archer has any left in their veins."
+          },
+          {
+            "name": "Restitution",
+            "description": "If the arrow finds its mark, it will drink the blood of the prey and restore that which had been taken from the archer. If it misses, the archer's blood will be lost forever."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Wing",
+    "reveals": [
+      {
+        "chapter": 242,
+        "rank": "Awakened",
+        "tier": "I",
+        "type": "Garment",
+        "description": "This cloak is as light as a dragonfly's wing… and as durable.",
+        "enchantments": [
+          {
+            "name": "Glide",
+            "description": "Allows one to levitate slightly above the ground and slowly move in any direction, or glide down softly from any height."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blood Blossom",
+    "reveals": [
+      {
+        "chapter": 242,
+        "rank": "Awakened",
+        "tier": "II",
+        "type": "Charm",
+        "description": "No matter how much blood was spilled, her hunger only grew.",
+        "enchantments": [
+          {
+            "name": "Flower of Evil",
+            "description": "This beautiful charm imbues all Memories, Echoes, and Shadows of its wielder with an unquenching thirst for blood. They receive an overall enhancement when used against a bleeding foe, and grow more powerful the more their prey bleeds."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dusk Shard",
+    "reveals": [
+      {
+        "chapter": 261,
+        "rank": "Ascended",
+        "tier": "II",
+        "type": "Weapon",
+        "description": "Forged from a shard of a fallen star, this shield contains the weight of the heavens. Depending on the heart of its wielder, it can be light as a feather or heavy as regret.",
+        "enchantments": [
+          {
+            "name": "Indomitable",
+            "description": "Following the will of its master, the Dusk Shard can change its weight."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moon Shard",
+    "reveals": [
+      {
+        "chapter": 262,
+        "rank": "Ascended",
+        "tier": "I",
+        "type": "Weapon",
+        "description": "When the stars were extinguished and fell, a lonely moon remained in the empty sky. With no sun to shine upon it, the moon grew dim, withered, and died. As the last remnants of moonlight were devoured by darkness, one small shard was forged into this subtle blade.",
+        "enchantments": [
+          {
+            "name": "Unseen",
+            "description": "Forged from moonlight, this blade appears in the hand of its wielder without delay."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Weaver's Mask",
+    "reveals": [
+      {
+        "chapter": 278,
+        "rank": "Divine",
+        "tier": "VII",
+        "type": "Tool",
+        "description": "Weaver believed that knowledge was the origin of power and so always hid behind numerous lies, wearing them as a mantle. No one knew Weaver's thoughts, Weaver's face, and Weaver's heart. Even the gods could not see what hid behind the mask.",
+        "enchantments": [
+          {
+            "name": "Mantle of Lies",
+            "description": "Hides the identity of its master."
+          },
+          {
+            "name": "???",
+            "description": ""
+          },
+          {
+            "name": "Simple Trick",
+            "description": "Reverses the effect of one's Flaw."
+          }
+        ]
+      },
+      {
+        "chapter": 456,
+        "rank": "Divine",
+        "tier": "VII",
+        "type": "Tool",
+        "description": "Weaver believed that knowledge was the origin of power and so always hid behind numerous lies, wearing them as a mantle. No one knew Weaver's thoughts, Weaver's face, and Weaver's heart. Even the gods could not see what hid behind the mask.",
+        "enchantments": [
+          {
+            "name": "Mantle of Lies",
+            "description": "Hides the identity of its master."
+          },
+          {
+            "name": "Where is my eye?",
+            "description": "Helps the wielder peer into the tapestry of Fate."
+          },
+          {
+            "name": "Simple Trick",
+            "description": "Reverses the effect of one's Flaw."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nameless Sun",
+    "reveals": [
+      {
+        "chapter": 353,
+        "rank": "Ascended",
+        "tier": "VI",
+        "type": "Weapon",
+        "description": "For a long time, the Nameless Sun suffered in solitude, longing for all the things that were lost. Only when she lost that longing, too, was the Crimson Terror of the Forgotten Shore finally born."
+      }
+    ]
+  },
+  {
+    "name": "Broken Oath",
+    "reveals": [
+      {
+        "chapter": 376,
+        "rank": "Awakened",
+        "tier": "I",
+        "type": "Charm",
+        "description": "They made a terrible oath to destroy the curse, or be consumed by it. Those who have broken the oath were consumed by the curse, and those consumed by the curse have broken their oath. In the end, none could escape their promise.",
+        "enchantments": [
+          {
+            "name": "Oathbreaker",
+            "description": "The Broken Oath erodes souls of all those who approach it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mantle of the Underworld",
+    "reveals": [
+      {
+        "chapter": 377,
+        "rank": "Ascended",
+        "tier": "VI",
+        "type": "Armor",
+        "description": "Vowing to never look upon the Goddes of the Black Skies again, the prideful demon retreated into the darkness beneath an unassailable mountain chain. He wasn't the first to lead his army against the gods. However, he was the first to shed their blood, as well as learn the secrets of his own.",
+        "enchantments": [
+          {
+            "name": "Living Stone",
+            "description": "This armor can repair itself while being worn."
+          },
+          {
+            "name": "Feather of Truth",
+            "description": "The weight of this armor can be changed at will."
+          },
+          {
+            "name": "Stalwart",
+            "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "This armor can accommodate a Charm Memory to inherit and enhance its enchantments."
+          },
+          {
+            "name": "Prince of the Underworld",
+            "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
+          }
+        ]
+      },
+      {
+        "chapter": 972,
+        "rank": "Ascended",
+        "tier": "VII",
+        "type": "Armor",
+        "description": "Vowing to never look upon the Goddes of the Black Skies again, the prideful demon retreated into the darkness beneath an unassailable mountain chain. He wasn't the first to lead his army against the gods. However, he was the first to shed their blood, as well as learn the secrets of his own.",
+        "enchantments": [
+          {
+            "name": "Living Stone",
+            "description": "This armor can repair itself while being worn."
+          },
+          {
+            "name": "Feather of Truth",
+            "description": "The weight of this armor can be changed at will."
+          },
+          {
+            "name": "Stalwart",
+            "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "This armor can accommodate a Charm Memory to inherit and enhance its enchantments."
+          },
+          {
+            "name": "Prince of the Underworld",
+            "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cruel Sight",
+    "reveals": [
+      {
+        "chapter": 415,
+        "rank": "Ascended",
+        "tier": "IV",
+        "type": "Weapon",
+        "description": "...Full of pride, the noble knight made a deal with the Dreamspawn. Years later, the knight had defeated all his enemies and became a mighty king. On the day that his son uttered the first word, the Dreamspawn came to the king and demanded his pay. He left the kingdom with the child and disappeared, never to be seen again. Much later, the young prince returned and stood beneath his father's throne. He expected to be met with joy and warmth, but was met with fear and suspicion instead.",
+        "enchantments": [
+          {
+            "name": "Shapeshifter",
+            "description": "This weapon can shift form between a sword and a spear."
+          },
+          {
+            "name": "Light Eater",
+            "description": "The blade of this weapon can reflect, absorb, and expel light."
+          },
+          {
+            "name": "Ghost Blade",
+            "description": "This weapon can strike at incorporeal targets."
+          },
+          {
+            "name": "Dark Mirror",
+            "description": "Each attack of this weapon can be augmented with elemental damage. It can be charged with any element the wielder has been damaged by."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Covetous Coffer",
+    "reveals": [
+      {
+        "chapter": 428,
+        "rank": "Ascended",
+        "tier": "IV",
+        "type": "Tool",
+        "description": "\"You are very strange!\" said Noctis. Why was his new friend so deathly afraid of chests? Why was he so timid and pale? \"Don't be afraid, these are just my treasure chests. They won't bite. Well... except for this one. This one will eat you alive.\"",
+        "enchantments": [
+          {
+            "name": "Mendacious Coffer",
+            "description": "This Memory can mimic the form of any inanimate object. The size and intricacy of the simulacrum are dependent on the wielder's Soul Core capacity."
+          },
+          {
+            "name": "Capacious Chest",
+            "description": "This Memory is bigger on the inside. It can be summoned and dismissed while storing inanimate items. The size of the storage space, as well as the maximum weight of stored items, are dependent on the wielder's Soul Core capacity."
+          },
+          {
+            "name": "Locomotive Chifonnier",
+            "description": "This Memory can move around and follow its wielder."
+          },
+          {
+            "name": "Lurid Trunk",
+            "description": "This Memory will protect itself against potential thieves. By eating them."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heavenly Burden",
+    "reveals": [
+      {
+        "chapter": 512,
+        "rank": "Awakened",
+        "tier": "III",
+        "type": "Tool",
+        "description": "To be free of a burden, one has to let go of all attachments they hold in their heart. Only those who untethered themselves from everything can become truly free.",
+        "enchantments": [
+          {
+            "name": "Unburdened",
+            "description": "Those pierced with this needle will rise to the skies."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Memory of Fire",
+    "reveals": [
+      {
+        "chapter": 512,
+        "rank": "Ascended",
+        "tier": "I",
+        "type": "Charm",
+        "description": "...And then, there was nothing but flame.",
+        "enchantments": [
+          {
+            "name": "Scorching Heat",
+            "description": "This charm provides the wearer with moderate resistance to fire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Undying Chain",
+    "reveals": [
+      {
+        "chapter": 521,
+        "rank": "Transcendent",
+        "tier": "III",
+        "type": "Armor",
+        "description": "[description not found in text -- check chapter or add manually]"
+      },
+      {
+        "chapter": 522,
+        "rank": "Transcendent",
+        "tier": "III",
+        "type": "Armor",
+        "description": "In a beautiful tower at the end of the world, desire was bound by seven brilliant shackles. She was meant to be chained there forever, and so her shackles were made eternal. Yet in the end, desire was unleashed upon the world. Her shackles were destroyed, and the will of the gods was broken.",
+        "enchantments": [
+          {
+            "name": "Chains of Longing",
+            "description": "This armor provides the wearer with high protection against mind attacks."
+          },
+          {
+            "name": "Brilliant Will",
+            "description": "This armor becomes stronger when worn by those of divinity."
+          },
+          {
+            "name": "Undying",
+            "description": "The wearer can not die."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Memory of Ice",
+    "reveals": [
+      {
+        "chapter": 540,
+        "rank": "Ascended",
+        "tier": "I",
+        "type": "Charm",
+        "description": "...Even when the sun returned, they shivered and remembered the neverending winter.",
+        "enchantments": [
+          {
+            "name": "Bitter Cold",
+            "description": "This charm provides the wearer with moderate resistance to cold."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strike of Thunder",
+    "reveals": [
+      {
+        "chapter": 550,
+        "rank": "Ascended",
+        "tier": "II",
+        "type": "Weapon",
+        "description": "A powerful spirit was once trapped in a glass bottle for a thousand years. This lightning is a manifestation of his rage.",
+        "enchantments": [
+          {
+            "name": "Caged Lightning",
+            "description": "This arrow strikes as fast as a bolt of lightning, and chains its devastating damage to several nearby creatures."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Patient Avenger",
+    "reveals": [
+      {
+        "chapter": 550,
+        "rank": "Ascended",
+        "tier": "III",
+        "type": "Weapon",
+        "description": "Aflame with hatred, she waited and watched. When the time came, her vengeance was colder than ice.",
+        "enchantments": [
+          {
+            "name": "Tenacious",
+            "description": "This shield is especially durable."
+          },
+          {
+            "name": "Burning Heart",
+            "description": "This shield can store a portion of fire damage it receives to augment another weapon of its wielder or unleash a devastating shockwave."
+          },
+          {
+            "name": "Cold Steel",
+            "description": "This shield can store a portion of impact damage it receives to augment another weapon of its wielder or unleash an immolating wave of fire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Morgan's Warbow",
+    "reveals": [
+      {
+        "chapter": 550,
+        "rank": "Ascended",
+        "tier": "IV",
+        "type": "Weapon",
+        "description": "Death is worth living for. Love is worth waiting for.",
+        "enchantments": [
+          {
+            "name": "Soul Arrows",
+            "description": "This bow attunes to the soul of its wielder and is capable of creating arrows that share its affinity."
+          },
+          {
+            "name": "Unbending",
+            "description": "This adamantine bow demands a giant's might to be bent. Because of that, arrows shot from it travel as far as the eye can see, and strike with terrible strength, piercing both armor and flesh."
+          },
+          {
+            "name": "Burden of Peace",
+            "description": "After soul arrows pierce the flesh of an enemy, their weight can be drastically increased."
+          },
+          {
+            "name": "Death Dealer",
+            "description": "This bow is able to consume a large amount of essence to deliver an obliterating strike."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shadow Lantern",
+    "reveals": [
+      {
+        "chapter": 654,
+        "rank": "Divine",
+        "tier": "I",
+        "type": "Tool",
+        "description": "\"Death is just the shadow of life,\" said the Goddes of Life. \"And peace is just the failure of war. Have you ever been something that had not been stolen, made empty, and vile? Have you ever done something that was not futile and hollow? Can you even exist without being cast by another? Look at how weak you are, how small you are. Am I supposed to be frightened of a small shadow?\" Made pale and feeble by the radiance of day, Shadow laughed and rose from the ground. As he did, his figure swallowed the land, devoured the heavens, and blotted out the light of the sun. Soon, there was nothing left around them but darkness. And from that darkness, a hiss came, making Life tremble: \"Life is just the prelude to death, and war is just the key to open its gates. Everything you cherish, everything you nurture, everything that starts with you will one day be mine, be welcomed by me, swallowed by me, and find peace within me. This is the mercy of Shadow. Hollow… futile... you might have come first, my sister, but when your cruelty ends… I will be all that remains…\"",
+        "enchantments": [
+          {
+            "name": "Gates of Shadow",
+            "description": "This lantern devours light and can contain, and then release, an infinite amount of shadows."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dying Wish",
+    "reveals": [
+      {
+        "chapter": 730,
+        "rank": "Transcendent",
+        "tier": "I",
+        "type": "Charm",
+        "description": "A young woman once wished to be free, but could only find her freedom in death. She called upon it, and touched by her sincerity, death came. But instead of embracing it herself, the young woman delivered death to those who held her in chains.",
+        "enchantments": [
+          {
+            "name": "Death Wish",
+            "description": "Those who witness the wielder of this Memory are compelled; friends to be inspired, foes to seek the wielder out. The power of the Memory grows the more enemies they give the gift of death, and can be consumed to heal the wielder's wounds."
+          }
+        ]
+      },
+      {
+        "chapter": 736,
+        "rank": "Transcendent",
+        "tier": "I",
+        "type": "Charm",
+        "description": "A young woman once wished to be free, but could only find her freedom in death. She called upon it, and touched by her sincerity, death came. But instead of embracing it herself, the young woman delivered death to those who held her in chains.",
+        "enchantments": [
+          {
+            "name": "Death Wish",
+            "description": "Those who witness the wielder of this Memory are compelled; friends to be inspired, foes to seek the wielder out."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sin of Solace",
+    "reveals": [
+      {
+        "chapter": 869,
+        "rank": "Transcendent",
+        "tier": "V",
+        "type": "Weapon",
+        "description": "This blade is a whisper of Ariel, the Demon of Dread, who turned a beautiful monster into a queen and gave her a sinister gift of forbidden knowledge.",
+        "enchantments": [
+          {
+            "name": "Sinister Whisper",
+            "description": "This blade can deal both physical damage and mental damage to those that it cuts, destroying not only their bodies, but also their minds. The mental damage persists like a curse, even after a single cut."
+          },
+          {
+            "name": "Perfect Jade",
+            "description": "This blade is carved from a piece of sublime jade, and as such is sharp and durable beyond logic and reason."
+          },
+          {
+            "name": "Omen of Dread",
+            "description": "A faint remnant of Ariel's presence lingers on this blade, striking terror into the hearts of all beings."
+          },
+          {
+            "name": "Hideous Truth",
+            "description": "The more the wielder's sanity is shattered, the more powerful this blade becomes. It bestows revelations of madness on those who give in to its will."
+          },
+          {
+            "name": "Cursed",
+            "description": "This blade slowly drives its wielder mad."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bitter Cusp",
+    "reveals": [
+      {
+        "chapter": 923,
+        "rank": "Ascended",
+        "tier": "I",
+        "type": "Tool",
+        "description": "They entered the beautiful halls of the Jade Court harboring venomous desires in their black hearts, and hiding rapacious snarls behind their admiring smiles. The mistress of the palace herself presented them with a cup of the sweetest nectar. No matter how much of the sweet nectar they drank, the cup remained full. The more of it they consumed, the more of it they desired. Soon, there was nothing but bestial need left, and nothing but bitterness remained."
+      }
+    ]
+  },
+  {
+    "name": "Stifled Scream",
+    "reveals": [
+      {
+        "chapter": 923,
+        "rank": "Transcendent",
+        "tier": "III",
+        "type": "Charm",
+        "description": "...a great river was contained within it, flowing endlessly from the future into the past. When doom came, many entered to seek shelter from it, and many had come to seek the truth. That was because the Great River existed outside time, and so, it was said that a dreadful secret was hidden at its estuary. Few of those capable dared to approach it, and none of those who had returned."
+      }
+    ]
+  },
+  {
+    "name": "I Am Stuck in an Endless Tunnel Full of True Darkness. How the Hell Do I Get Out? Ask Cassie",
+    "reveals": [
+      {
+        "chapter": 936,
+        "rank": "Transcendent",
+        "tier": "I",
+        "description": "[description not found in text -- check chapter or add manually]"
+      }
+    ]
+  },
+  {
+    "name": "Shroud of Graceless Dusk",
+    "reveals": [
+      {
+        "chapter": 1022,
+        "rank": "Transcendent",
+        "tier": "VI",
+        "type": "armor",
+        "description": "Sybils were the heralds of the gods and conduits of divine grace. Many mysteries were known to them, and so were many truths. There was one being, though, who knew much more — the graceless caitiff, Demon of Dread. He knew every truth there was, because he knew everyone's fear- even that of the gods. And so, seeking salvation from the end, the sybils abandoned the mortal realm and guided their people on a long and arduous journey. They led them far away, across the lands consumed by war... To the Tomb of Ariel. There, they found solace, safety, and shelter. In time, the voices of the gods grew silent one after another, leaving behind only a vast and dreadful silence. That was how the sybils embraced the Estuary, and that was how they fell."
+      }
+    ]
+  },
+  {
+    "name": "Mirror of Truth",
+    "reveals": [
+      {
+        "chapter": 1122,
+        "rank": "Ascended",
+        "tier": "Seven",
+        "type": "Tool",
+        "description": "Weaver was known as the master of lies, while Ariel was known as the keeper of truths. The two were not close and rarely met, which was why Ariel was surprised to find Weaver staring at his pyramid one day. \"Isn't it beautiful, this tomb of mine? Have you come to admire it?\" Ariel said. After a moment of silence, Weaver responded. \"I have not known that you've built a tomb, nor have I ever seen it. How would I know to admire it? I just happened to be here by chance. Now that I've seen it, my heart is untouched. I feel nothing.\" Then, Weaver asked. \"But you seem to feel too much, Demon of Dread. Your face is unsightly. You are smiling, but there are tears streaming from your eyes. Why?\" Ariel laughed, \"I'm not sure.\" He laughed and cried as he looked at the tomb, saying, \"I built it to bury the truth. Truth is the most hideous thing in the world, Weaver, and knowing it is a cruel torment. I mean to bury the truths that I cannot endure at the heart of this tomb, and be free of them forever.\" Weaver remained silent. After a while, Weaver spoke. \"It seems to me that you already did. And you already are.\" With that, the Demon of Fate turned and walked away without looking back. Walking away, Weaver whispered. \"...You wanted to be free of the truth, so you didn't deserve it.\"",
+        "enchantments": [
+          {
+            "name": "Searching Reflection",
+            "description": "Catch the visage of a being into the Mirror of Truth. Activate the enchantment to destroy the mirror and gain one power of the reflected being for a period of time that depends on its potency."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Shaper",
+    "reveals": [
+      {
+        "chapter": 1247,
+        "rank": "Transcendent",
+        "tier": "IV",
+        "type": "Tool",
+        "description": "When the unholy titan took a step, everyone cowered in fear. Only Ariel, the Demon of Dread, remained standing - he did not feel fear, for he was fear itself. Taking a step forward, he challenged the unholy titan, and the two battled under the azure sky. Their battle was fierce, their battle was fearsome. Their battle was a hint of the doom that would come. The unholy titan possessed an indestructible stone body and was invulnerable to all harm. As they fought, the land was shattered and the sky split apart. The Demon of Dread received many harrowing wounds, but the terrible titan remained wholly unscathed. Its stone body became incandescent from the heat, shining brighter than the fiery sun. That was when the Demon of Dread whispered something to his enemy, and then cast the titan into the depths of the ocean. When the incandescent titan plunged into the cool water, the ocean turned into searing vapor and was scattered by the winds. The stone flesh of the titan instantly cooled, causing a tiny crack to appear on its heart - that tiny spot was the only part of the creature that had not been tempered, and was also its only flaw. As Ariel watched coldly, the titan bellowed in agony. After one heartbeat, cracks appeared on its indestructible body. After two heartbeats, blood flowed from its wounds like a river. After three heartbeats, its body started to crumble into numerous shards. And on the seventh heartbeat, its heart shattered, turning into dust. That was how the unholy stone titan was destroyed. Following the end of the battle, the Demon of Dread created a mystical river out of the titan's blood, and built a pyramid out of its stone flesh. The pyramid stood where the ocean had once been, and..."
+      }
+    ]
+  },
+  {
+    "name": "Crown of Twilight",
+    "reveals": [
+      {
+        "chapter": 1288,
+        "rank": "Supreme",
+        "tier": "I",
+        "type": "Tool",
+        "description": "[description not found in text -- check chapter or add manually]"
+      },
+      {
+        "chapter": 1289,
+        "rank": "Supreme",
+        "tier": "I",
+        "type": "Tool",
+        "description": "There was a king who ruled over a dying land. The king was valiant and wise. Refusing to embrace despair, he thought of an audacious plan, gathered his companions, and braved the endless desert to enter the Tomb of Ariel, where the Great River flowed endlessly from the future into the past. Thus, the valiant king became a guide who guarded his people in their nightmares. They built a city at the edge of dawn and gathered an army to vanquish that which was defiled. However, in the end, the army was destroyed, the city was lost, and the valiant king himself succumbed to madness. Consumed by wrath and resentment, he turned into a mindless beast and roamed the Great River for countless years. Nothing could withstand his hunger and fury... until, one day, the mad king met a treacherous shadow. \"But what do you even know?\" said the shadow. \"Do you think you're so special? I know fury, too. I know hunger, too. I know madness, too! Oh... and I've killed plenty of creatures more powerful than me, too. Who are you to dare stare me down, beast?\" \"I am Lost from Light, who was born from the shadows. I am the rightful heir of death and the bastard son of fate. Wherever I go, ruin follows. If you had any sense, you would have run away as soon as you saw me.\" And, true to his word, treacherous Lost from Light battled the mad king, eventually becoming his doom. That was how the king who had outlived his land died.",
+        "enchantments": [
+          {
+            "name": "Legacy of Twilight",
+            "description": ""
+          },
+          {
+            "name": "King's Resentment",
+            "description": ""
+          },
+          {
+            "name": "Royal Promise",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dream Flower",
+    "reveals": [
+      {
+        "chapter": 1470,
+        "rank": "Transcendent",
+        "tier": "I",
+        "description": "The dreams and hopes of Wind Flower of the Twilight Sea are contained within this blossom. It was a farewell gift to her killer, Lost from Light.",
+        "enchantments": [
+          {
+            "name": "Given Promise",
+            "description": "Crush my hopes, crush my dreams. Crush my nightmares."
+          }
+        ]
+      }
+    ]
+  }
+]

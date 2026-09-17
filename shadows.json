@@ -1,0 +1,703 @@
+[
+  {
+    "name": "Stone Saint",
+    "reveals": [
+      {
+        "chapter": 106,
+        "name": "Stone Saint",
+        "rank": "Awakened",
+        "class": "Monster",
+        "description": "Shadow Saint was created by the treacherous Lost From Light in the cursed darkness of the Forgotten Shore.",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": ""
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 182,
+        "name": "Stone Saint",
+        "rank": "Awakened",
+        "class": "Monster",
+        "description": "Shadow Saint was created by the treacherous Lost From Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "6/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": ""
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 189,
+        "name": "Stone Saint",
+        "rank": "Awakened",
+        "class": "Monster",
+        "description": "Shadow Saint was created by the treacherous Lost From Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "27/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": ""
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 273,
+        "name": "Stone Saint",
+        "rank": "Awakened",
+        "class": "Monster",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "80/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": ""
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 310,
+        "name": "Marble Saint",
+        "rank": "Awakened",
+        "class": "Demon",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "80/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": ""
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Weapon Sage",
+            "description": "Shadow Saint can effectively wield any weapon-type Memory."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "Shadow Saint's armor can accommodate a charm Memory to inherit its enchantments."
+          }
+        ]
+      },
+      {
+        "chapter": 376,
+        "name": "Marble Saint",
+        "rank": "Awakened",
+        "class": "Demon",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "80/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": "The Stone Saint is highly resistant to all forms of damage, as well as being fully immune to mind and soul attacks."
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Weapon Sage",
+            "description": "Shadow Saint can effectively wield any weapon-type Memory."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "Shadow Saint's armor can accommodate a charm Memory to inherit its enchantments."
+          }
+        ]
+      },
+      {
+        "chapter": 511,
+        "name": "Marble Saint",
+        "rank": "Ascended",
+        "class": "Demon",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "80/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": ""
+          },
+          {
+            "name": "Stalwart",
+            "description": "The Stone Saint is highly resistant to all forms of damage, as well as being fully immune to mind and soul attacks."
+          },
+          {
+            "name": "Spark of Divinity",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Weapon Sage",
+            "description": "Shadow Saint can effectively wield any weapon-type Memory."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "Shadow Saint's armor can accommodate a charm Memory to inherit its enchantments."
+          }
+        ]
+      },
+      {
+        "chapter": 1000,
+        "name": "Onyx Saint",
+        "rank": "Ascended",
+        "class": "Devil",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "80/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": "A vestige of an ancient darkness dwells in this Shadow's heart, granting her tenebrous powers."
+          },
+          {
+            "name": "Stalwart",
+            "description": "The Stone Saint is highly resistant to all forms of damage, as well as being fully immune to mind and soul attacks."
+          },
+          {
+            "name": "Ember of Divinity",
+            "description": ""
+          },
+          {
+            "name": "Heart of Darkness",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Weapon Sage",
+            "description": "Shadow Saint can effectively wield any weapon-type Memory."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "Shadow Saint's armor can accommodate a charm Memory to inherit its enchantments."
+          },
+          {
+            "name": "Mantle of Darkness",
+            "description": "Darkness embraces this Shadow. When surrounded by darkness, and true darkness more so, her swiftness and might will increase. Her wounds will be healed, and her heart will grow fuller."
+          },
+          {
+            "name": "Blade of Darkness",
+            "description": "The true darkness dwelling in this Shadow's heart can be summoned in the form of a fearsome weapon, as long as the Shadow has mastered the use of that weapon. The Blade of Darkness can slay those of flesh and those of spirit; it never dulls, never falters, and never breaks. Alternatively, the darkness can be summoned to augment a mundane weapon."
+          }
+        ]
+      },
+      {
+        "chapter": 1026,
+        "name": "Onyx Saint",
+        "rank": "Ascended",
+        "class": "Devil",
+        "description": "Shadow Saint was created by the treacherous Lost from Light in the cursed darkness of the Forgotten Shore.",
+        "fragments": "196/200",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": "A vestige of an ancient darkness dwells in this Shadow's heart, granting her tenebrous powers."
+          },
+          {
+            "name": "Stalwart",
+            "description": "The Stone Saint is highly resistant to all forms of damage, as well as being fully immune to mind and soul attacks."
+          },
+          {
+            "name": "Ember of Divinity",
+            "description": ""
+          },
+          {
+            "name": "Heart of Darkness",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Weapon Sage",
+            "description": "Shadow Saint can effectively wield any weapon-type Memory."
+          },
+          {
+            "name": "Underworld Armament",
+            "description": "Shadow Saint's armor can accommodate a charm Memory to inherit its enchantments."
+          },
+          {
+            "name": "Mantle of Darkness",
+            "description": "Darkness embraces this Shadow. When surrounded by darkness, and true darkness more so, her swiftness and might will increase. Her wounds will be healed, and her heart will grow fuller."
+          },
+          {
+            "name": "Blade of Darkness",
+            "description": "The true darkness dwelling in this Shadow's heart can be summoned in the form of a fearsome weapon, as long as the Shadow has mastered the use of that weapon. The Blade of Darkness can slay those of flesh and those of spirit; it never dulls, never falters, and never breaks. Alternatively, the darkness can be summoned to augment a mundane weapon."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soul Serpent",
+    "reveals": [
+      {
+        "chapter": 359,
+        "name": "Soul Serpent",
+        "rank": "Dormant",
+        "class": "Monster",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent guides shadow essence as it flows through your body."
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          }
+        ]
+      },
+      {
+        "chapter": 527,
+        "name": "Soul Serpent",
+        "rank": "Dormant",
+        "class": "Demon",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent guides shadow essence as it flows through your body."
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Serpentine Steel",
+            "description": "Shadow Serpent's Soul Weapon form can assume the shape of any weapon."
+          }
+        ]
+      },
+      {
+        "chapter": 549,
+        "name": "Soul Serpent",
+        "rank": "Awakened",
+        "class": "Demon",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent can assume the form of a beast."
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          },
+          {
+            "name": "Soul Beast",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Serpentine Steel",
+            "description": "Shadow Serpent's Soul Weapon form can assume the shape of any weapon."
+          },
+          {
+            "name": "Soul Reaver",
+            "description": "A portion of the soul essence of those slain by the Shadow Serpent in its Soul Weapon or Soul Beast form is absorbed and transferred to its master."
+          }
+        ]
+      },
+      {
+        "chapter": 653,
+        "name": "Soul Serpent",
+        "rank": "Ascended",
+        "class": "Demon",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent can assume the form of a beast."
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          },
+          {
+            "name": "Soul Beast",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Serpentine Steel",
+            "description": "The master of the Soul Serpent can grace another with the trust and companionship of their Shadow Guide. One should be careful whom they bestow with their grace; entrusting others with the loyalty of Shadows is the same as sharing one's soul, and thus should not be offered lightly."
+          },
+          {
+            "name": "Soul Reaver",
+            "description": "A portion of the soul essence of those slain by the Shadow Serpent in its Soul Weapon or Soul Beast form is absorbed and transferred to its master."
+          },
+          {
+            "name": "Grace of Shadows",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 702,
+        "name": "Soul Serpent",
+        "rank": "Ascended",
+        "class": "Devil",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent can assume the form of a beast."
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          },
+          {
+            "name": "Soul Beast",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Serpentine Steel",
+            "description": "The master of the Soul Serpent can grace another with the trust and companionship of their Shadow Guide. One should be careful whom they bestow with their grace; entrusting others with the loyalty of Shadows is the same as sharing one's soul, and thus should not be offered lightly."
+          },
+          {
+            "name": "Soul Reaver",
+            "description": "A portion of the soul essence of those slain by the Shadow Serpent in its Soul Weapon or Soul Beast form is absorbed and transferred to its master."
+          },
+          {
+            "name": "Grace of Shadows",
+            "description": ""
+          },
+          {
+            "name": "Formless",
+            "description": "When in the Soul Beast form, the Serpent can assume the shape of any shadow contained within its master's soul, inheriting all powers and abilities. The shadow must be of the same or lower Rank and Class than the Soul Serpent for the transformation to take place, and won't be consumed in the process."
+          }
+        ]
+      },
+      {
+        "chapter": 1731,
+        "name": "Soul Serpent",
+        "rank": "Transcendent",
+        "class": "Terror",
+        "description": "When the end came, Shadow was the last of the gods to be destroyed. Many have resented him for creating death, but in the end, death embraced all.",
+        "attributes": [
+          {
+            "name": "Shadow Guide",
+            "description": "Soul Serpent can assume the form of a beast."
+          },
+          {
+            "name": "Spirit Guide",
+            "description": ""
+          },
+          {
+            "name": "Soul Weapon",
+            "description": "Soul Serpent can assume the form of a weapon."
+          },
+          {
+            "name": "Soul Beast",
+            "description": ""
+          },
+          {
+            "name": "Soul Companion",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Serpentine Steel",
+            "description": "The master of the Soul Serpent can grace another with the trust and companionship of their Shadow Guide. One should be careful whom they bestow with their grace; entrusting others with the loyalty of Shadows is the same as sharing one's soul, and thus should not be offered lightly."
+          },
+          {
+            "name": "Soul Reaver",
+            "description": "A portion of the soul essence of those slain by the Shadow Serpent in its Soul Weapon or Soul Beast form is absorbed and transferred to its master."
+          },
+          {
+            "name": "Grace of Shadows",
+            "description": ""
+          },
+          {
+            "name": "Formless",
+            "description": "When in the Soul Beast form, the Serpent can assume the shape of any shadow contained within its master's soul, inheriting all powers and abilities. The shadow must be of the same or lower Rank and Class than the Soul Serpent for the transformation to take place, and won't be consumed in the process."
+          },
+          {
+            "name": "Mark of Shadows",
+            "description": ""
+          },
+          {
+            "name": "Slaying Blade",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nightmare",
+    "reveals": [
+      {
+        "chapter": 655,
+        "name": "Nightmare",
+        "rank": "Awakened",
+        "class": "Terror",
+        "description": "This beautiful steed was tamed by the treacherous Lost From Light in the depths of a harrowing dream. The two Shadows battled across countless nightmares, shattering them all apart; neither was willing to give up, so in the end, the nightmares did.",
+        "attributes": [
+          {
+            "name": "Swift",
+            "description": "This Shadow is especially swift and enduring."
+          },
+          {
+            "name": "Dark Destrier",
+            "description": "This dark horse was meant to be a shadow warrior's steed, and accompany its rider into battle. It is fierce, loyal, and knows no fear. Its speed, strength, and resilience grow when surrounded by darkness and shadows."
+          },
+          {
+            "name": "Dreadlord",
+            "description": "This Shadow's might grows the more he is feared."
+          },
+          {
+            "name": "Dreamwalker",
+            "description": "This Shadow can travel through dreams."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flowing Shadow",
+            "description": "This steed can dive into shadows and move through them with incredible speed."
+          },
+          {
+            "name": "Mantle of Fear",
+            "description": "This Shadow is capable of delivering a continuous mind attack around it that infects its foes with crippling fear."
+          },
+          {
+            "name": "Nightmare",
+            "description": "This Shadow can create and subjugate nightmares. The more nightmares serve it, the more powerful it grows, both inside and outside dreams."
+          },
+          {
+            "name": "Dream Curse",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 1367,
+        "name": "Nightmare",
+        "rank": "Ascended",
+        "class": "Terror",
+        "description": "This beautiful steed was tamed by the treacherous Lost From Light in the depths of a harrowing dream. The two Shadows battled across countless nightmares, shattering them all apart; neither was willing to give up, so in the end, the nightmares did. Despite the excitement, memories of his dreadful battle with Nightmare made Sunny shiver. Shadow Attributes: [Swift",
+        "fragments": "0/300",
+        "attributes": [
+          {
+            "name": "Swift",
+            "description": "This Shadow is especially swift and enduring."
+          },
+          {
+            "name": "Dark Destrier",
+            "description": "This dark horse was meant to be a shadow warrior's steed, and accompany its rider into battle. It is fierce, loyal, and knows no fear. Its speed, strength, and resilience grow when surrounded by darkness and shadows."
+          },
+          {
+            "name": "Dreadlord",
+            "description": "This Shadow's might grows the more he is feared."
+          },
+          {
+            "name": "Dreamwalker",
+            "description": "This Shadow can travel through dreams."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flowing Shadow",
+            "description": "This steed can dive into shadows and move through them with incredible speed."
+          },
+          {
+            "name": "Mantle of Fear",
+            "description": "This Shadow is capable of delivering a continuous mind attack around it that infects its foes with crippling fear."
+          },
+          {
+            "name": "Nightmare",
+            "description": "This Shadow can create and subjugate nightmares. The more nightmares serve it, the more powerful it grows, both inside and outside dreams. Dormant nightmares: 287 Awakened nightmares: 252 Ascended nightmares: 455 Transcendent nightmares: 6"
+          },
+          {
+            "name": "Dream Curse",
+            "description": "This Shadow is a master of a lesser dream domain. It is capable of lulling living beings to sleep and imprisoning their souls in a labyrinth of nightmares. The souls destroyed within the nightmare maze feed the Shadow; the more powerful the Shadow grows, the faster and further the dream curse spreads."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ravenous Fiend",
+    "reveals": [
+      {
+        "chapter": 1080,
+        "name": "Ravenous Fiend",
+        "rank": "Transcendent",
+        "class": "Devil",
+        "description": "A pitiful little creature traveled through a nightmarish land, harboring a bitter grudge in its tiny heart. Driven by resentment and spite, it suffered many trials and conquered untold dangers to become a marvelous devil. But fate was unkind. The ravenous devil met a much more Terrible fiend, and turned into his shadow",
+        "attributes": [
+          {
+            "name": "Lucky",
+            "description": "This Shadow is favored by fortune."
+          },
+          {
+            "name": "Marvel",
+            "description": "This Shadow is a marvelous learner. It is stunningly keen and supremely adaptable, absorbing new knowledge with astonishing speed."
+          },
+          {
+            "name": "Ravenous",
+            "description": "This Shadow possesses an insatiable hunger, and a frightening potential for growth. The more it eats, the more it will grow."
+          },
+          {
+            "name": "Shadow Sworn",
+            "description": ""
+          },
+          {
+            "name": "Lesser Iron Body",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "chapter": 1161,
+        "name": "Ravenous Fiend",
+        "rank": "Transcendent",
+        "class": "Devil",
+        "description": "A pitiful little creature...",
+        "attributes": [
+          {
+            "name": "Lucky",
+            "description": "This Shadow is favored by fortune."
+          },
+          {
+            "name": "Marvel",
+            "description": "This Shadow is a marvelous learner. It is stunningly keen and supremely adaptable, absorbing new knowledge with astonishing speed."
+          },
+          {
+            "name": "Ravenous",
+            "description": "This Shadow possesses an insatiable hunger, and a frightening potential for growth. The more it eats, the more it will grow."
+          },
+          {
+            "name": "Shadow Sworn",
+            "description": ""
+          },
+          {
+            "name": "Greater Steel Body",
+            "description": "This Shadow's body is akin to blessed steel."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Scavenger",
+            "description": ""
+          },
+          {
+            "name": "Devourer",
+            "description": ""
+          },
+          {
+            "name": "Shadow Step",
+            "description": ""
+          },
+          {
+            "name": "Internal Heat",
+            "description": "This Shadow's teeth and claws can be infused with annihilating heat, enhancing their cutting power."
+          }
+        ]
+      },
+      {
+        "chapter": 1315,
+        "name": "Ravenous Fiend",
+        "rank": "Transcendent",
+        "class": "Devil",
+        "description": "A pitiful little creature traveled through a nightmarish land...",
+        "attributes": [
+          {
+            "name": "Lucky",
+            "description": "This Shadow's body is forged out of sublime blessed steel and is without a flaw"
+          },
+          {
+            "name": "Marvel",
+            "description": "This Shadow is a marvelous learner. It is stunningly keen and supremely adaptable, absorbing new knowledge with astonishing speed."
+          },
+          {
+            "name": "Ravenous",
+            "description": "This Shadow possesses an insatiable hunger, and a frightening potential for growth. The more it eats, the more it will grow."
+          },
+          {
+            "name": "Shadow Sworn",
+            "description": ""
+          },
+          {
+            "name": "Complete Steel body",
+            "description": ""
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Scavenger",
+            "description": ""
+          },
+          {
+            "name": "Devourer",
+            "description": ""
+          },
+          {
+            "name": "Shadow Step",
+            "description": ""
+          },
+          {
+            "name": "Internal Heat",
+            "description": "This Shadow's teeth and claws can be infused with annihilating heat, enhancing their cutting power."
+          }
+        ]
+      }
+    ]
+  }
+]

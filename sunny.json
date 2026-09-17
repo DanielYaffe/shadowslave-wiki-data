@@ -1,0 +1,5535 @@
+{
+  "reveals": [
+    {
+      "chapter": 2,
+      "name": "Sunless",
+      "rank": "Aspirant",
+      "cores": {
+        "label": "Soul Core",
+        "value": "Dormant"
+      },
+      "memories": [],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Temple Slave",
+        "description": "Slave is a useless wretch with no skills or abilities worth a mention. A temple slave is just the same, except much rarer."
+      }
+    },
+    {
+      "chapter": 15,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Aspirant",
+      "cores": {
+        "label": "Soul Core",
+        "value": "Dormant"
+      },
+      "memories": [],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine"
+      }
+    },
+    {
+      "chapter": 16,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "12/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud"
+      ],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 17,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "12/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud"
+      ],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 24,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "12/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud"
+      ],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 46,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "12/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteers' Shroud",
+        "Azure Blade"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 54,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "28/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteers' Shroud",
+        "Azure Blade"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 60,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "96/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteers' Shroud",
+        "Azure Blade"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 77,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "97/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteers' Shroud",
+        "Azure Blade"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 81,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "196/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 85,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "196/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 97,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "398/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 106,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "398/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 110,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2/200"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 112,
+      "name": "Sunless",
+      "true_name": "Changing Star\"",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "307/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 189,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "318/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Drop of Ichor"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 204,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "322/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Arrow"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 219,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "322/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Arrow"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 223,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "362/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Arrow"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 241,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "494/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 263,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "938/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 301,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "956/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring"
+      ],
+      "echoes": [
+        "Carapace Scavenger"
+      ],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 310,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "977/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Stone Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 331,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "999/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 341,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "cores": {
+        "label": "Shadow Core",
+        "value": "Dormant"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1000/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 352,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1000/1000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 354,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "0/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 358,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 359,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Moonlight Shard",
+        "M… …old",
+        "Weaver's Mask"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 376,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 380,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "197/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 400,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "198/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 428,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "223/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 450,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "223/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 451,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "223/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 472,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "224/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 497,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1814/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 513,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1936/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 521,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1958/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 524,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "class": "Devil",
+      "cores": {
+        "label": "Soul Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1958/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 525,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Dreamer",
+      "class": "Devil",
+      "cores": {
+        "label": "Soul Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1994/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 526,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 549,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "2/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 550,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "2/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 625,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2223/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "2/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 626,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Soul Fragments",
+        "value": "2478/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "2/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 652,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2823/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "2/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 653,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2823/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 701,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Demon",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "3/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "3000/3000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 702,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 744,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "744/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Blackhorn Bow",
+        "Full Quiver",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Patient Avenger",
+        "Morgan's Warbow",
+        "Drop of Ichor"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Child of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Ember of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 848,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1246/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Nightmare",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 870,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "870/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Nightmare",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 873,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1332/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Nightmare",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 922,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1601/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Nightmare",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 944,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1601/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 975,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1601/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Marble Shell",
+          "description": "In the deep darkness of the underworld, a prideful demon forged seven suits of splendid armor for his favorite creations. The intricate shells were both a boon and a test, since only those worthy of his regard could unlock the mantle's true potential and bear its weight."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 989,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2471/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Marble Shell",
+          "description": "In the deep darkness of the underworld, a prideful demon forged seven suits of splendid armor for his favorite creations. The intricate shells were both a boon and a test, since only those worthy of his regard could unlock the mantle's true potential and bear its weight."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1004,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "185/200"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Mantle of the Underworld",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Undying Chain",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Evil Eye"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Marble Shell",
+          "description": "In the deep darkness of the underworld, a prideful demon forged seven suits of splendid armor for his favorite creations. The intricate shells were both a boon and a test, since only those worthy of his regard could unlock the mantle's true potential and bear its weight."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1026,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "2973/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Sin of Solace",
+        "Bitter Cusp",
+        "Stifled Scream",
+        "Weaver's Needle",
+        "Essence Pearl"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Marble Shell",
+          "description": "In the deep darkness of the underworld, a prideful demon forged seven suits of splendid armor for his favorite creations. The intricate shells were both a boon and a test, since only those worthy of his regard could unlock the mantle's true potential and bear its weight."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1047,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "3857/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Sin of Solace",
+        "Bitter Cusp",
+        "Stifled Scream",
+        "Weaver's Needle",
+        "Essence Pearl"
+      ],
+      "echoes": [
+        "Ravenous Fiend"
+      ],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent",
+        "Nightmare"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "Deep within your soul, an ember of divinity shines, almost ready to erupt into a radiant flame."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your bones have been altered and imbued with steadfast temperance…"
+        },
+        {
+          "name": "Marble Shell",
+          "description": "In the deep darkness of the underworld, a prideful demon forged seven suits of splendid armor for his favorite creations. The intricate shells were both a boon and a test, since only those worthy of his regard could unlock the mantle's true potential and bear its weight."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1080,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Devil",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "4/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "3857/4000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Weaver's Mask",
+        "Broken Oath",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Sin of Solace",
+        "Bitter Cusp",
+        "Stifled Scream",
+        "Weaver's Needle",
+        "Essence Pearl"
+      ],
+      "echoes": [
+        "Ravenous Fiend"
+      ],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Shadow Sworn",
+          "description": "This fiend is known to shadows."
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1123,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Tyrant",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "503/5000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Extraordinary Rock",
+        "Endless Spring",
+        "Dark Wing",
+        "Moonlight Shard",
+        "Weaver's Mask",
+        "Autumn Leaf",
+        "Cruel Sight",
+        "Covetous Coffer",
+        "Heavenly Burden",
+        "Memory of Fire",
+        "Memory of Ice",
+        "Strike of Thunder",
+        "Morgan's Warbow",
+        "Shadow Lantern",
+        "Bone Singer",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Dying Wish",
+        "Sin of Solace",
+        "Bitter Cusp",
+        "Stifled Scream",
+        "Weaver's Needle",
+        "Essence Pearl",
+        "Nimble Catch",
+        "Shroud of Graceless Dusk",
+        "Mirror of Truth"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1236,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Tyrant",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1236/5000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "3/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1301,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Tyrant",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1236/5000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1302,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Tyrant",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1448/5000"
+      },
+      "memories": [
+        "Silver Bell"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1471,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Terror",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "7/6000"
+      },
+      "memories": [
+        "Silver Bell"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1580,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Ascended",
+      "class": "Terror",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "5/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "7/6000"
+      },
+      "memories": [
+        "Silver Bell"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Ravenous Fiend"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your soul has been altered and imbued with stalwart potency. A lonely demon shed tears standing above a forgotten grave. A tree grew from the ground where the demon's tears fell, and from it grew a wondrous fruit."
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Master of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Marble Shell",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1592,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Transcendent",
+      "class": "Terror",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "6/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1591/6000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Extraordinary Rock",
+        "Endless Spring",
+        "Weaver's Mask",
+        "Shadow Lantern",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Weaver's Needle",
+        "Nebulous Mantle",
+        "Handy Bracelet",
+        "Quintessence Pearl"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Shadow Fiend",
+        "Marvelous Mimic"
+      ],
+      "attributes": [
+        {
+          "name": "Lord of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Soul Weave",
+          "description": ""
+        },
+        {
+          "name": "Onyx Shell",
+          "description": ""
+        },
+        {
+          "name": "Fateless",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          },
+          {
+            "name": "Shadow Incarnation",
+            "description": ""
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 1678,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Transcendent",
+      "class": "Terror",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "6/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "1591/6000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Extraordinary Rock",
+        "Endless Spring",
+        "Weaver's Mask",
+        "Shadow Lantern",
+        "Shadow Chair",
+        "Overpriced Saddle",
+        "Weaver's Needle",
+        "Nebulous Mantle",
+        "Handy Bracelet",
+        "Quintessence Pearl"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Onyx Saint",
+        "Soul Serpent",
+        "Nightmare",
+        "Shadow Fiend",
+        "Marvelous Mimic"
+      ],
+      "attributes": [
+        {
+          "name": "Lord of Shadows",
+          "description": ""
+        },
+        {
+          "name": "Flame of Divinity",
+          "description": ""
+        },
+        {
+          "name": "Blood Weave",
+          "description": ""
+        },
+        {
+          "name": "Bone Weave",
+          "description": ""
+        },
+        {
+          "name": "Soul Weave",
+          "description": ""
+        },
+        {
+          "name": "Onyx Shell",
+          "description": ""
+        },
+        {
+          "name": "Fateless",
+          "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Light Bringer",
+        "description": "You are a creature of light that was banished and doomed to exist in the darkness. You bring radiance and warmth to wherever you go, but with it comes indescribable longing.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          },
+          {
+            "name": "Shadow Manifestation",
+            "description": "You can manifest shadows as tangible objects"
+          },
+          {
+            "name": "Shadow Incarnation",
+            "description": ""
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "4/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    }
+  ]
+}

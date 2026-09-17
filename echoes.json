@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Carapace Scavenger",
+    "reveals": [
+      {
+        "chapter": 47,
+        "name": "Carapace Scavenger",
+        "type": "Beast",
+        "core": "Awakened",
+        "description": "A cursed soldier of the fallen legion",
+        "attributes": [
+          {
+            "name": "Strong",
+            "description": ""
+          },
+          {
+            "name": "Armored",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Saint",
+    "reveals": [
+      {
+        "chapter": 105,
+        "name": "Stone Saint",
+        "rank": "Awakened",
+        "class": "Monster",
+        "description": "Deep in the cavernous halls of his dark domain, the last child of the -unknown- had created them from stone to quell the fire burning in his resentful heart. However, that fire only grew hotter. Designed to bring peace, they were instead born into an endless war.",
+        "attributes": [
+          {
+            "name": "Battle Master",
+            "description": "Born on the battlefield, the Stone Saint is proficient in all forms of combat."
+          },
+          {
+            "name": "Stalwart",
+            "description": "The Stone Saint is highly resistant to all forms of damage, as well as being fully immune to mind and soul attacks."
+          },
+          {
+            "name": "Mark of Divinity",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shadow Blade Kurt",
+    "reveals": [
+      {
+        "chapter": 510,
+        "name": "Shadow Blade Kurt",
+        "rank": "Awakened",
+        "type": "Beast",
+        "description": "I have entrusted you with a beautiful blade, but all you created was a hideous nightmare.",
+        "attributes": [
+          {
+            "name": "Swift Hand",
+            "description": "Your blade strikes fast and true."
+          },
+          {
+            "name": "Shadow Sworn",
+            "description": "You are known to shadows."
+          },
+          {
+            "name": "Mark of Death",
+            "description": "You bear a mark of Death, as just like Death, you were created to be a weapon."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Shadow Manipulation",
+            "description": "You can affect the movement of shadows and walk through them unseen."
+          },
+          {
+            "name": "Shadow Strike",
+            "description": "You can strike at the shadows, and your shadow can strike at the living things."
+          },
+          {
+            "name": "Awakened",
+            "description": "This Echo has the innate abilities of a carrier of the Spell."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "generated": "2026-09-17T21:33:41Z",
+  "source_commit": "09b41fd",
+  "volumes": [
+    "01-shadow-slave-vol1-c1-c95.epub",
+    "02-shadow-slave-vol2-c96-c350.epub",
+    "03-shadow-slave-vol3-c351-c600.epub",
+    "04-shadow-slave-vol4-c601-c750.epub",
+    "05-shadow-slave-vol5-c751-c1060.epub",
+    "06-shadow-slave-vol6-c1061-c1230.epub",
+    "07-shadow-slave-vol7-c1231-c1590.epub",
+    "08-shadow-slave-vol8-c1591-c1840.epub"
+  ],
+  "max_chapter": 1731,
+  "counts": {
+    "memories": 39,
+    "shadows": 4,
+    "echoes": 3,
+    "sunny_reveals": 70
+  }
+}
