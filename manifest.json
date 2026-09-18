@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T08:04:14Z",
-  "source_commit": "ccb10ba",
+  "generated": "2026-09-18T08:37:27Z",
+  "source_commit": "1f72e2f",
   "volumes": [
     "01-shadow-slave-vol1-c1-c95.epub",
     "02-shadow-slave-vol2-c96-c350.epub",
@@ -16,6 +16,6 @@
     "memories": 39,
     "shadows": 4,
     "echoes": 3,
-    "sunny_reveals": 71
+    "sunny_reveals": 70
   }
 }
