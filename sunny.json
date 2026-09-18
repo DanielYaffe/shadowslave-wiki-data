@@ -30,6 +30,35 @@
       }
     },
     {
+      "chapter": 3,
+      "name": "Sunless",
+      "rank": "Aspirant",
+      "cores": {
+        "label": "Soul Core",
+        "value": "Dormant"
+      },
+      "memories": [],
+      "echoes": [],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
+        },
+        {
+          "name": "Child of Shadows",
+          "description": "Shadows recognize you as one of their own."
+        }
+      ],
+      "aspect": {
+        "name": "Temple Slave",
+        "description": "Slave is a useless wretch with no skills or abilities worth a mention. A temple slave is just the same, except much rarer."
+      }
+    },
+    {
       "chapter": 15,
       "name": "Sunless",
       "true_name": "Lost from Light",
@@ -43,15 +72,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -81,15 +110,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -125,63 +154,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
-        }
-      ],
-      "aspect": {
-        "name": "Shadow Slave",
-        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
-        "rank": "Divine",
-        "abilities": [
-          {
-            "name": "Shadow Control",
-            "description": "Your shadow is more independent than most. It is an invaluable helper."
-          }
-        ]
-      },
-      "flaw": {
-        "name": "Clear Conscience",
-        "description": "You cannot lie."
-      }
-    },
-    {
-      "chapter": 24,
-      "name": "Sunless",
-      "true_name": "Changing Star\"",
-      "rank": "Dreamer",
-      "cores": {
-        "label": "Shadow Core",
-        "value": "Dormant"
-      },
-      "fragments": {
-        "label": "Shadow Fragments",
-        "value": "12/1000"
-      },
-      "memories": [
-        "Silver Bell",
-        "Puppeteer's Shroud"
-      ],
-      "echoes": [],
-      "attributes": [
-        {
-          "name": "Fated",
-          "description": ""
-        },
-        {
-          "name": "Mark of Divinity",
-          "description": ""
-        },
-        {
-          "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -203,7 +184,7 @@
     {
       "chapter": 46,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -224,15 +205,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -254,7 +235,7 @@
     {
       "chapter": 54,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -275,15 +256,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -305,7 +286,7 @@
     {
       "chapter": 60,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -326,15 +307,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -356,7 +337,7 @@
     {
       "chapter": 77,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -377,15 +358,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -407,7 +388,7 @@
     {
       "chapter": 81,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -429,15 +410,15 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         }
       ],
       "aspect": {
@@ -459,7 +440,7 @@
     {
       "chapter": 85,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -481,19 +462,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -515,7 +500,7 @@
     {
       "chapter": 97,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -537,19 +522,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -571,7 +560,7 @@
     {
       "chapter": 106,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -596,19 +585,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -630,7 +623,7 @@
     {
       "chapter": 110,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -655,19 +648,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -689,7 +686,7 @@
     {
       "chapter": 112,
       "name": "Sunless",
-      "true_name": "Changing Star\"",
+      "true_name": "Lost from Light",
       "rank": "Dreamer",
       "cores": {
         "label": "Shadow Core",
@@ -714,19 +711,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -773,19 +774,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -835,19 +840,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -897,19 +906,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -964,19 +977,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1030,19 +1047,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1096,19 +1117,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1162,19 +1187,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1230,19 +1259,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1298,19 +1331,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         }
       ],
       "aspect": {
@@ -1366,19 +1403,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Soul Conduit",
@@ -1439,19 +1480,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Soul Conduit",
@@ -1512,19 +1557,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Soul Conduit",
@@ -1589,19 +1638,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Soul Conduit",
@@ -1667,19 +1720,23 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Soul Conduit",
@@ -1747,23 +1804,119 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        }
+      ],
+      "aspect": {
+        "name": "Shadow Slave",
+        "description": "You are a miraculous shadow left behind by a dead god. As a divine shadow, you possess plenty of strange and wondrous powers. However, your existence is empty and lonesome; you mourn the passing of your former master and long to find a new one.",
+        "rank": "Divine",
+        "abilities": [
+          {
+            "name": "Shadow Control",
+            "description": "Your shadow is more independent than most. It is an invaluable helper."
+          },
+          {
+            "name": "Shadow Step",
+            "description": "You can move freely between shadows, traveling from one to another in an instant."
+          }
+        ]
+      },
+      "legacy": {
+        "name": "Shadow Dance",
+        "description": "Once an elegant dance, now a deadly battle art. This mysterious style was created by the treacherous Lost From Light after witnessing a graceful slave dancing with her shadows. Who else could have taken something so beautiful and turned it into something so vile?",
+        "mastery": "1/7"
+      },
+      "flaw": {
+        "name": "Clear Conscience",
+        "description": "You cannot lie."
+      }
+    },
+    {
+      "chapter": 377,
+      "name": "Sunless",
+      "true_name": "Lost from Light",
+      "rank": "Awakened",
+      "class": "Monster",
+      "cores": {
+        "label": "Shadow Cores",
+        "value": "2/7"
+      },
+      "fragments": {
+        "label": "Shadow Fragments",
+        "value": "0/2000"
+      },
+      "memories": [
+        "Silver Bell",
+        "Puppeteer's Shroud",
+        "Midnight Shard",
+        "Ordinary Rock",
+        "Prowling Thorn",
+        "Endless Spring",
+        "Blood Blossom",
+        "Dark Wing",
+        "Moonlight Shard",
+        "M… Un…old",
+        "Weaver's Mask",
+        "Broken Oath"
+      ],
+      "echoes": [],
+      "shadows": [
+        "Marble Saint",
+        "Soul Serpent"
+      ],
+      "attributes": [
+        {
+          "name": "Fated",
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
+        },
+        {
+          "name": "Mark of Divinity",
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
+        },
+        {
+          "name": "Child of Shadows",
+          "description": "Shadows recognize you as one of their own."
+        },
+        {
+          "name": "Spark of Divinity",
+          "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
+        },
+        {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
+          "name": "Soul Conduit",
+          "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         }
       ],
       "aspect": {
@@ -1827,23 +1980,35 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         }
       ],
       "aspect": {
@@ -1907,23 +2072,35 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         }
       ],
       "aspect": {
@@ -1987,23 +2164,35 @@
       "attributes": [
         {
           "name": "Fated",
-          "description": ""
+          "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both."
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         }
       ],
       "aspect": {
@@ -2071,19 +2260,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2155,19 +2356,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2243,19 +2456,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2331,19 +2556,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2419,19 +2656,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2507,19 +2756,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2595,19 +2856,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2683,19 +2956,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2771,19 +3056,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2859,19 +3156,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -2960,19 +3269,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3061,19 +3382,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3162,19 +3495,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3263,19 +3608,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3364,19 +3721,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3465,19 +3834,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3566,19 +3947,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3667,19 +4060,31 @@
         },
         {
           "name": "Mark of Divinity",
-          "description": ""
+          "description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago."
         },
         {
           "name": "Child of Shadows",
-          "description": ""
+          "description": "Shadows recognize you as one of their own."
         },
         {
           "name": "Spark of Divinity",
           "description": "Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light."
         },
         {
+          "name": "Blood Weave",
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
+        },
+        {
           "name": "Soul Conduit",
           "description": ""
+        },
+        {
+          "name": "Stalwar",
+          "description": "This armor provides extremely high protection against physical attacks, high protection against elemental attacks, and a moderate amount of protection against mind and soul attacks."
+        },
+        {
+          "name": "Prince of the Underwolrd",
+          "description": "This armor grows stronger according to the amount of opponents its wielder defeats."
         },
         {
           "name": "Ember of Divinity",
@@ -3786,7 +4191,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -3885,7 +4290,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -3984,7 +4389,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4083,7 +4488,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4182,7 +4587,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4281,7 +4686,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4384,7 +4789,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4487,7 +4892,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4592,7 +4997,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
@@ -4699,7 +5104,7 @@
         },
         {
           "name": "Blood Weave",
-          "description": ""
+          "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity."
         },
         {
           "name": "Bone Weave",
